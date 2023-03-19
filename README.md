@@ -8,3 +8,9 @@ Xhoslin - focused in login part and  database.
 Rindi Daja - focused totally in database.
 
 Denald Selimi and Klaiv Domi - focused totally in desing and in static part of the website.
+
+#The topic of the project is to build an E-commerce website which has many functionalities.
+
+To build this website we are going to use HTML, CSS, BOOTSTRAP, PHP and JAVASCRIPT.
+
+We are going to build an homepage and an admin dashboard from which we are going to add brands, categories, products, photos etc.
