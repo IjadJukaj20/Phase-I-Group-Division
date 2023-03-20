@@ -9,7 +9,7 @@ Rindi Daja - focused totally in database.
 
 Denald Selimi and Klaiv Domi - focused totally in desing and in static part of the website.
 
-#### The topic of the project is to build an E-commerce website which has many functionalities.
+#### The topic of the project is to build an Library Management System which has many functionalities.
 
 To build this website we are going to use HTML, CSS, BOOTSTRAP, PHP and JAVASCRIPT.
 
