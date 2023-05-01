@@ -3,7 +3,7 @@
 
 Ijad Jukaj (me) - focused a little in static and more in dynamic part of the website (HTML, JAVASCRIPT, PHP).
 
-Xhoslin - Focused in login system and  database [Admin login system and user login system (PHP, HTML).
+Xhoslin - Focused in login system and  database [Admin login system and user login system (PHP, HTML)].
 
 Rindi Daja - Focused totally in database design (MYSQL).
 
